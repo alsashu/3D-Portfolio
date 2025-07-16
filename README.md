@@ -10,3 +10,9 @@ Tailwind CSS
 Framer Motion
 GSAP
 Spline (for 3D integration)
+
+### Web View
+<img width="100%" alt="3D-Portfolio" src="https://github.com/alsashu/3D-Portfolio/blob/main/src/assets/window.png">
+
+### Mobile View
+<img width="100%" alt="3D-Portfolio" src="https://github.com/alsashu/3D-Portfolio/blob/main/src/assets/mobile.png">
